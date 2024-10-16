@@ -25,6 +25,13 @@ h1 {
     font-weight: bold;
 }
 
+.subtitulo {
+    color: #d6d6d6;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50;
+    font-weight: lighter;
+}
+
 p {
     color: #d6d6d6;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
